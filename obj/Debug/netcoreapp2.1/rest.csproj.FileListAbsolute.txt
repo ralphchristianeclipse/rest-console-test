@@ -1,0 +1,11 @@
+C:\Users\Ralph\Desktop\Web Development\asp\rest\bin\Debug\netcoreapp2.1\rest.deps.json
+C:\Users\Ralph\Desktop\Web Development\asp\rest\bin\Debug\netcoreapp2.1\rest.runtimeconfig.json
+C:\Users\Ralph\Desktop\Web Development\asp\rest\bin\Debug\netcoreapp2.1\rest.runtimeconfig.dev.json
+C:\Users\Ralph\Desktop\Web Development\asp\rest\bin\Debug\netcoreapp2.1\rest.dll
+C:\Users\Ralph\Desktop\Web Development\asp\rest\bin\Debug\netcoreapp2.1\rest.pdb
+C:\Users\Ralph\Desktop\Web Development\asp\rest\obj\Debug\netcoreapp2.1\rest.csprojAssemblyReference.cache
+C:\Users\Ralph\Desktop\Web Development\asp\rest\obj\Debug\netcoreapp2.1\rest.csproj.CoreCompileInputs.cache
+C:\Users\Ralph\Desktop\Web Development\asp\rest\obj\Debug\netcoreapp2.1\rest.AssemblyInfoInputs.cache
+C:\Users\Ralph\Desktop\Web Development\asp\rest\obj\Debug\netcoreapp2.1\rest.AssemblyInfo.cs
+C:\Users\Ralph\Desktop\Web Development\asp\rest\obj\Debug\netcoreapp2.1\rest.dll
+C:\Users\Ralph\Desktop\Web Development\asp\rest\obj\Debug\netcoreapp2.1\rest.pdb
